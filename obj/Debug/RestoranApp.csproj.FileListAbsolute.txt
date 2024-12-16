@@ -1,0 +1,80 @@
+C:\Users\User\Desktop\programlama\c#\RestoranApp\obj\Debug\RestoranApp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\programlama\c#\RestoranApp\obj\Debug\RestoranApp.LoginForm.resources
+C:\Users\User\Desktop\programlama\c#\RestoranApp\obj\Debug\RestoranApp.Properties.Resources.resources
+C:\Users\User\Desktop\programlama\c#\RestoranApp\obj\Debug\RestoranApp.TableDetailsForm.resources
+C:\Users\User\Desktop\programlama\c#\RestoranApp\obj\Debug\RestoranApp.WaiterForm.resources
+C:\Users\User\Desktop\programlama\c#\RestoranApp\obj\Debug\RestoranApp.csproj.GenerateResource.cache
+C:\Users\User\Desktop\programlama\c#\RestoranApp\obj\Debug\RestoranApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\programlama\c#\RestoranApp\bin\Debug\RestoranApp.exe.config
+C:\Users\User\Desktop\programlama\c#\RestoranApp\bin\Debug\RestoranApp.exe
+C:\Users\User\Desktop\programlama\c#\RestoranApp\bin\Debug\RestoranApp.pdb
+C:\Users\User\Desktop\programlama\c#\RestoranApp\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\programlama\c#\RestoranApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\programlama\c#\RestoranApp\bin\Debug\LiveCharts.dll
+C:\Users\User\Desktop\programlama\c#\RestoranApp\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\User\Desktop\programlama\c#\RestoranApp\bin\Debug\MaterialSkin.dll
+C:\Users\User\Desktop\programlama\c#\RestoranApp\bin\Debug\MetroFramework.dll
+C:\Users\User\Desktop\programlama\c#\RestoranApp\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\Desktop\programlama\c#\RestoranApp\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\User\Desktop\programlama\c#\RestoranApp\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\programlama\c#\RestoranApp\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Desktop\programlama\c#\RestoranApp\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\User\Desktop\programlama\c#\RestoranApp\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\User\Desktop\programlama\c#\RestoranApp\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\programlama\c#\RestoranApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\programlama\c#\RestoranApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\programlama\c#\RestoranApp\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\programlama\c#\RestoranApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\programlama\c#\RestoranApp\bin\Debug\LiveCharts.pdb
+C:\Users\User\Desktop\programlama\c#\RestoranApp\bin\Debug\LiveCharts.xml
+C:\Users\User\Desktop\programlama\c#\RestoranApp\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\User\Desktop\programlama\c#\RestoranApp\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\User\Desktop\programlama\c#\RestoranApp\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\programlama\c#\RestoranApp\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Desktop\programlama\c#\RestoranApp\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\programlama\c#\RestoranApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\programlama\c#\RestoranApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\programlama\c#\RestoranApp\obj\Debug\RestoranApp.AdminForm.resources
+C:\Users\User\Desktop\programlama\c#\RestoranApp\obj\Debug\RestoranApp.csproj.CopyComplete
+C:\Users\User\Desktop\programlama\c#\RestoranApp\obj\Debug\RestoranApp.exe
+C:\Users\User\Desktop\programlama\c#\RestoranApp\obj\Debug\RestoranApp.pdb
+C:\Users\Sude Nur\Desktop\RestoranApp\bin\Debug\RestoranApp.exe.config
+C:\Users\Sude Nur\Desktop\RestoranApp\bin\Debug\RestoranApp.exe
+C:\Users\Sude Nur\Desktop\RestoranApp\bin\Debug\RestoranApp.pdb
+C:\Users\Sude Nur\Desktop\RestoranApp\bin\Debug\EntityFramework.dll
+C:\Users\Sude Nur\Desktop\RestoranApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sude Nur\Desktop\RestoranApp\bin\Debug\LiveCharts.dll
+C:\Users\Sude Nur\Desktop\RestoranApp\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Sude Nur\Desktop\RestoranApp\bin\Debug\MaterialSkin.dll
+C:\Users\Sude Nur\Desktop\RestoranApp\bin\Debug\MetroFramework.dll
+C:\Users\Sude Nur\Desktop\RestoranApp\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Sude Nur\Desktop\RestoranApp\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Sude Nur\Desktop\RestoranApp\bin\Debug\System.Buffers.dll
+C:\Users\Sude Nur\Desktop\RestoranApp\bin\Debug\System.Data.SQLite.dll
+C:\Users\Sude Nur\Desktop\RestoranApp\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Sude Nur\Desktop\RestoranApp\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Sude Nur\Desktop\RestoranApp\bin\Debug\System.Memory.dll
+C:\Users\Sude Nur\Desktop\RestoranApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Sude Nur\Desktop\RestoranApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sude Nur\Desktop\RestoranApp\bin\Debug\EntityFramework.xml
+C:\Users\Sude Nur\Desktop\RestoranApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sude Nur\Desktop\RestoranApp\bin\Debug\LiveCharts.pdb
+C:\Users\Sude Nur\Desktop\RestoranApp\bin\Debug\LiveCharts.xml
+C:\Users\Sude Nur\Desktop\RestoranApp\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Sude Nur\Desktop\RestoranApp\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Sude Nur\Desktop\RestoranApp\bin\Debug\System.Buffers.xml
+C:\Users\Sude Nur\Desktop\RestoranApp\bin\Debug\System.Data.SQLite.xml
+C:\Users\Sude Nur\Desktop\RestoranApp\bin\Debug\System.Memory.xml
+C:\Users\Sude Nur\Desktop\RestoranApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Sude Nur\Desktop\RestoranApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Sude Nur\Desktop\RestoranApp\obj\Debug\RestoranApp.csproj.AssemblyReference.cache
+C:\Users\Sude Nur\Desktop\RestoranApp\obj\Debug\RestoranApp.AdminForm.resources
+C:\Users\Sude Nur\Desktop\RestoranApp\obj\Debug\RestoranApp.LoginForm.resources
+C:\Users\Sude Nur\Desktop\RestoranApp\obj\Debug\RestoranApp.Properties.Resources.resources
+C:\Users\Sude Nur\Desktop\RestoranApp\obj\Debug\RestoranApp.TableDetailsForm.resources
+C:\Users\Sude Nur\Desktop\RestoranApp\obj\Debug\RestoranApp.WaiterForm.resources
+C:\Users\Sude Nur\Desktop\RestoranApp\obj\Debug\RestoranApp.csproj.GenerateResource.cache
+C:\Users\Sude Nur\Desktop\RestoranApp\obj\Debug\RestoranApp.csproj.CoreCompileInputs.cache
+C:\Users\Sude Nur\Desktop\RestoranApp\obj\Debug\Restoran.956E5648.Up2Date
+C:\Users\Sude Nur\Desktop\RestoranApp\obj\Debug\RestoranApp.exe
+C:\Users\Sude Nur\Desktop\RestoranApp\obj\Debug\RestoranApp.pdb
